@@ -61,7 +61,7 @@ def game_loop():
         print("You can move {}".format(" ,".join(valid_moves)))
         print("Enter QUIT to quit")
 
-        move = input("> ").upper()
+        move = input("Type a command> ").upper()
 
         if move == "QUIT":
             print("\n ** See you next time! ** \n")
