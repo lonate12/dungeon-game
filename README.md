@@ -1,9 +1,7 @@
 # Basic Dungeon Game
 
-## The scariest game you've played since...
-#### Actually, it's not that scary
-
 ## What is the Dungeon Game?
+
 
 The Dungeon Game is a basic game in which a monster and a secret escape door are
 randomly placed in a grid. The **X** represents you position on the grid.
