@@ -1,7 +1,7 @@
 # Basic Dungeon Game
 
 ## The scariest game you've played since...
-####(Actually, it's not that scary)
+#### Actually, it's not that scary
 
 ## What is the Dungeon Game?
 
