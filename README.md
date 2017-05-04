@@ -13,7 +13,8 @@ to type ("up", "down", "left", "right") the direction where you want your player
 to move.
 
 To quit the game, simply type "quit". Thanks guys, hope you enjoy.
----
+
+## Why?
 
 I've recently started to learn Python and this is the result of a tutorial to
 create a basic game. If you aren't super familiar with Python but want to play
